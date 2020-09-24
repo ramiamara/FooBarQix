@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FooBarQix", "FooBarQix\FooBarQix.csproj", "{3E05A15F-2B21-4103-BA89-2D5A1DA16774}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestFooBarQix", "UnitTestFooBarQix\UnitTestFooBarQix.csproj", "{DA768319-E6F7-4FF8-AC53-6980A4A7E9A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E05A15F-2B21-4103-BA89-2D5A1DA16774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E05A15F-2B21-4103-BA89-2D5A1DA16774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E05A15F-2B21-4103-BA89-2D5A1DA16774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E05A15F-2B21-4103-BA89-2D5A1DA16774}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA768319-E6F7-4FF8-AC53-6980A4A7E9A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA768319-E6F7-4FF8-AC53-6980A4A7E9A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA768319-E6F7-4FF8-AC53-6980A4A7E9A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA768319-E6F7-4FF8-AC53-6980A4A7E9A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2030AAB6-5FA4-48EA-83D5-C703B76081EF}
+	EndGlobalSection
+EndGlobal
