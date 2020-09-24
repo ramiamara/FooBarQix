@@ -1,12 +1,20 @@
 # FooBarQix
+![alt text](https://github.com/ramiamara/FooBarQixWeb/blob/master/Capture.PNG)
 #It is the Back part which allows to calculate from a number the combination of the values to return as result
 
+
 Rules
+
 If the number is divisible by 3, write “Foo” instead of the number
+
 If the number is divisible by 5, add “Bar”
+
 If the number is divisible by 7, add “Qix”
+
 For each digit 3, 5, 7, add “Foo”, “Bar”, “Qix” in the digits order.
+
 Examples
+
 1  => 1
 2  => 2
 3  => FooFoo (divisible by 3, contains 3)
